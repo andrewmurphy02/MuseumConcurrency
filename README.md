@@ -1,0 +1,1 @@
+This Java code simulates a museum visitation system using semaphores and threads, where visitors enter a waiting room, progress through various rooms (dinosaur, zoology, gift shop), and eventually exit the museum, while adhering to capacity limits in each room.
